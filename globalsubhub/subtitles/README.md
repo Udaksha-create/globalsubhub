@@ -1,0 +1,1 @@
+Only add subtitles for which you have documented redistribution rights. Maintain license, attribution, and source information per file. Do not scrape or redistribute subtitles from streaming platforms.
